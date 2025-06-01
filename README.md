@@ -11,6 +11,7 @@ Alejandro Oswaldo Leon Tello
 
 - **Lenguaje:** Python 3
 - **Librerías principales:** pygame, opencv, mediapipe
+- **Otras librerías usadas:** random, math, os, sys, time
 - **Resolución recomendada:** 800x600
 - **Carpeta de recursos:** sprites/
 
